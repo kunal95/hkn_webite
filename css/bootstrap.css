@@ -4907,7 +4907,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .breadcrumb {
   padding: 8px 15px;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   list-style: none;
   background-color: #f5f5f5;
   border-radius: 4px;
@@ -5222,7 +5222,7 @@ a.list-group-item.active > .badge,
 
 .jumbotron {
   padding: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   font-size: 21px;
   font-weight: 200;
   line-height: 2.1428571435;
@@ -7116,3 +7116,9 @@ td.visible-print {
     display: none !important;
   }
 }
+
+
+
+.banner { position: relative; overflow: auto; }
+    .banner li { list-style: none; }
+        .banner ul li { float: left; }

@@ -3,13 +3,22 @@
 	<head>
 		<title>Lambda Eta - HKN</title>
 		<meta name="viewport" content="width  =  device-width, initial-scale = 1.0">
-		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/bootstrap.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/unoSlider.min.css" type="text/css" media="screen" />
         <link href="css/style.css" rel="stylesheet">	
 	<head>	
     <body background = "img/bg.png"> 
-    	
-<nav class="navbar navbar-default navbar-static-top " role="navigation">
-  <!-- Brand and toggle get grouped for better mobile display -->
+    	<ol class="breadcrumb">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Library</a></li>
+            <li class="active">Data</li>
+        </ol>
+
+			<div class = "jumbotron">
+				<h1>This is the place where we add the title</h1> 
+			</div>
+	
+        <nav class="navbar navbar-default navbar-static-top " role="navigation">
   <div class="navbar-header">
     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
       <span class="sr-only">Toggle navigation</span>
@@ -17,7 +26,6 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-    <a class="navbar-brand" href="#"><img src="img/power1.png" height="20">  Lambda Eta - Eta Kappa Nu</a>
   </div>
  
   <!-- Collect the nav links, forms, and other content for toggling -->
@@ -190,23 +198,54 @@
   </div><!-- /.navbar-collapse -->
 </nav>
 		<div class = "container">
-			<div class = "jumbotron">
-				<h1>AAAA</h1> 
-			</div>
-		</div>
-        
-		<div class = "container">
 			<div class = "row">
 
-                <div class="col-md-3">
-                
-                    <h3><a href="##">LLLLLLLL   </a></h3>
+                <div class="col-md-9" style="background-color:grey">
+                   <div id="sliderId">
+                        <ul>
+                            <li class="current">HERE GOES THE CONTENT FOR THE SLIDER #1</li>
+                            <li>HERE GOES THE CONTENT FOR THE SLIDER #2</li>
+                            <li>HERE GOES THE CONTENT FOR THE SLIDER #3</li>
+                        </ul>
+                  </div>
                 </div>
-            
+                 <div class="col-md-3" style="background-color:blue">
+                
+                    <h3><a href="##"><table><!-- content for the plugins -->
+                          <tr>
+                            <th>Month</th>
+                            <th>Savings</th>
+                          </tr>
+                          <tr>
+                            <td>January</td>
+                            <td>$100</td>
+                          </tr>
+                        </table>   </a></h3>
+                </div>
+                <br>    
+                <div class="col-md-4" style="background-color:green">
+                   CONTENT
+                </div>
+                 <div class="col-md-2" style="background-color:red">
+                   CONTENT
+                </div>
+                 <div class="col-md-3" style="background-color:blue">
+                
+                    <h3><a href="##"><table><!-- content for the plugins -->
+                          <tr>
+                            <th>Month</th>
+                            <th>Savings</th>
+                          </tr>
+                          <tr>
+                            <td>January</td>
+                            <td>$100</td>
+                          </tr>
+                        </table>   </a></h3>
+                </div>
             </div>
 		</div>
         
-		<div class = "navbar navbar-fixed-bottom">
+		<div class = "navbar navbar-fixed-bottom" style="background-color:#DDDDDD">
 			<div class = "container">
 			<p class = "navbar-text pull-left"> KKKK</p>
 			<a class = "navbar-btn btn-info btn pull-right"> KKKK</a>			
@@ -214,5 +253,13 @@
 		</div>
     	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
+        <script src="js/unoSlider.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		// My Uno Slider
+		window.unoSlider = $('#sliderId').unoSlider();
+	});
+</script>
+
     </body>
 </html>
