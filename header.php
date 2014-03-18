@@ -1,14 +1,5 @@
 <?php echo'
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Lambda Eta - HKN</title>
-		<meta name="viewport" content="width  =  device-width, initial-scale = 1.0">
-		<link href="css/bootstrap.css" rel="stylesheet">
-        <link rel="stylesheet" href="css/unoSlider.min.css" type="text/css" media="screen" />
-        <link href="css/style.css" rel="stylesheet">	
-	</head>	
-    <body background = "img/bg.png"> 
+	<body background = "img/bg.png"> 
     	<ol class="breadcrumb">
             <li><a href="#">HKN.org</a></li>
 			<li><a href="#">Bridge</a></li>

@@ -1,6 +1,23 @@
-
+<html>
+<head>
+		<title>Lambda Eta - HKN</title>
+		<meta name="viewport" content="width  =  device-width, initial-scale = 1.0">
+		<link href="css/bootstrap.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/unoSlider.min.css" type="text/css" media="screen" >
+        <link href="css/style.css" rel="stylesheet">	
+			<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+        <script src="js/unoSlider.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		// My Uno Slider
+		window.unoSlider = $('#sliderId').unoSlider();
+	});
+</script>
+	</head>	
+    
 <?php include ("header.php"); ?>
-
+<body>
 
       
     <div class="container">
@@ -67,3 +84,5 @@
     </div>
 </div> 
     	
+</body>
+</html>
