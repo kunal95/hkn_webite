@@ -46,7 +46,7 @@
 
 <p>In the late 1930s, the national officers recommended that all colleges set the scholastic qualifications for membership to be the upper one-fourth of the junior EE class and the upper one-third of the senior EE class. In 1947, that qualification was made mandatory for all chapters by its incorporation in the national Constitution. </p>
 
-<p>Maurice Carr later acknowledged that one of the reasons for the founding of Eta Kappa Nu was to garner jobs for its members, but he also saw the organization as an incentive and inspiration for the individual — not just members, but all engineering students. He recognized that the prestige and reputation of the society rested on the character of its members after graduation. Significantly, in 1939, Carr wrote that "Eta Kappa Nu grew because there has always been many members who have been willing and eager to serve it loyally and unselfishly." This is as true today as it was in 1939. </p>
+<p>Maurice Carr later acknowledged that one of the reasons for the founding of Eta Kappa Nu was to garner jobs for its members, but he also saw the organization as an incentive and inspiration for the individual ï¿½ not just members, but all engineering students. He recognized that the prestige and reputation of the society rested on the character of its members after graduation. Significantly, in 1939, Carr wrote that "Eta Kappa Nu grew because there has always been many members who have been willing and eager to serve it loyally and unselfishly." This is as true today as it was in 1939. </p>
 
 <p>The Wheatstone Bridge symbol was selected as the emblem of HKN by the founding group, even though Maurice Carr preferred the Caduceus. In later years, Carr acknowledged that he had not realized that the medical profession had already selected his preferred symbol. The HKN Coat of Arms or Shield, as it is often called, (discussed in the Induction Ritual) was initiated in 1927. </p>
 
@@ -84,14 +84,14 @@
 			    
 			    <h5>Present IEEE-HKN committees consist of the following:</h5>
 	                    <ul style="list-stye-type:disc">
-				<li><a href="#">Alton B. Zerby and Carl T. Koerner Outstanding Electrical and Computer Engineering Student Award</a></li>
-				<li><a href="#">Distinguished Service Award</a></li>
-				<li><a href="#">Eminent Member Award</a></li>
-				<li><a href="#">Outstanding Chapter Award</a></li>
-				<li><a href="#">Outstanding Young Electrical and Computer Engineer Award</a></li>
-				<li><a href="#">C. Holmes MacDonald Outstanding Teaching Award</a></li>
-				<li><a href="#">Vladimir Karapetoff Outstanding Technical Achievement Award</a></li>
-				<li><a href="#">Induction Ritual</a></li>
+				<li><a href="http://www.hkn.org/awards/oeces.asp">Alton B. Zerby and Carl T. Koerner Outstanding Electrical and Computer Engineering Student Award</a></li>
+				<li><a href="http://www.hkn.org/awards/dsa.asp">Distinguished Service Award</a></li>
+				<li><a href="http://www.hkn.org/awards/ema.asp">Eminent Member Award</a></li>
+				<li><a href="http://www.hkn.org/awards/oca.asp">Outstanding Chapter Award</a></li>
+				<li><a href="http://www.hkn.org/awards/oyece.asp">Outstanding Young Electrical and Computer Engineer Award</a></li>
+				<li>C. Holmes MacDonald Outstanding Teaching Award</li>
+				<li><a href="http://www.hkn.org/awards/otaa.asp">Vladimir Karapetoff Outstanding Technical Achievement Award</a></li>
+				<li><a href="http://www.hkn.org/admin/induction_ritual_index.asp">Induction Ritual</a></li>
 			    </ul>
 			    </div>
 	                    
